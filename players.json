@@ -1,5 +1,4 @@
-{
-	"players": [{
+[{
 		"name": "Kurt",
 		"gamesPlayed": 14,
 		"gamesWon": 3,
@@ -42,4 +41,3 @@
 		"playerKilled": 14,
 		"playerMoos": 9001
 	}]
-}
