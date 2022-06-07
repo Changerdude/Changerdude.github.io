@@ -1,52 +1,44 @@
-{
- "posts" : [{
-	 	"id":1,
+[{
 		"name": "Kurt",
 		"gamesPlayed": 14,
 		"gamesWon": 3,
 		"playerKilled": 2,
 		"playerMoos": 0
 	}, {
-		"id":2,
 		"name": "Jawn",
 		"gamesPlayed": 37,
 		"gamesWon": 14,
 		"playerKilled": 23,
 		"playerMoos": 6
 	}, {
-		"id":3,
 		"name": "Steve",
 		"gamesPlayed": 35,
 		"gamesWon": 8,
 		"playerKilled": 14,
 		"playerMoos": 3
 	}, {
-		"id":4,
 		"name": "Anthony",
 		"gamesPlayed": 36,
 		"gamesWon": 14,
 		"playerKilled": 20,
 		"playerMoos": 4
 	}, {
-		"id":5,
 		"name": "Vic",
 		"gamesPlayed": 20,
 		"gamesWon": 4,
 		"playerKilled": 30,
 		"playerMoos": 0
 	}, {
-		"id":6,
 		"name": "Jake",
 		"gamesPlayed": 14,
 		"gamesWon": 14,
 		"playerKilled": 14,
 		"playerMoos": 0
 	}, {
-		"id":7,
 		"name": "Spencer",
 		"gamesPlayed": 14,
 		"gamesWon": 14,
 		"playerKilled": 14,
 		"playerMoos": 9001
 	}]
-}
+
